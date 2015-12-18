@@ -1,3 +1,3 @@
 # hello-world
 my happy repository
-Life is really good!
+All is good for now...
